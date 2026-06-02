@@ -1,0 +1,14 @@
+{
+  "cleanUrls": false,
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/ceramic-coating-detailing",
+      "destination": "/ceramic-coating-detailing/Ceramic Coating & Car Detailing.html"
+    },
+    {
+      "source": "/ceramic-coating-detailing/",
+      "destination": "/ceramic-coating-detailing/Ceramic Coating & Car Detailing.html"
+    }
+  ]
+}
